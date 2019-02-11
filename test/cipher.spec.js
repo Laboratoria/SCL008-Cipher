@@ -1,3 +1,13 @@
+/*
+describe('a quien voy q testear', () => {
+  it('que quiero comprobar', () => {
+    método para comprobar
+  })
+})
+
+*/
+
+
 describe('cipher', () => {
 
   it('debería ser un objeto', () => {
